@@ -89,10 +89,6 @@ autoencoder.fit(x_train_noisy, x_train_scaled,
                 batch_size=128,
                 shuffle=True,
                 validation_data=(x_test_noisy, x_test_scaled))
-import pandas as pd
-metrics = pd.DataFrame(autoencoder.history.history)
-metrics.head()
-metrics[['loss','val_loss']].plot()
 decoded_imgs = autoencoder.predict(x_test_noisy)
 n = 10
 plt.figure(figsize=(20, 4))
