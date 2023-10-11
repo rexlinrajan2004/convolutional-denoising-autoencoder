@@ -9,7 +9,7 @@ Using autoencoder, we are trying to remove the noise added in the encoder part a
 ![201460551-99b57c03-8dd9-4ec2-9d7c-1772acf980c4](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/a9fd8225-ba8e-4215-97ce-52809f4ed9c7)
 
 
-
+ 
 
 ## Convolution Autoencoder Network Model
 ![201509467-dd107f8d-acc4-41a8-a9f0-d0494d7d2a0c](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/48b9dda4-34a2-440e-a433-df36548e74ba)
