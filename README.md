@@ -38,8 +38,8 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 ## PROGRAM
 ```
-NAME : CHARUMATHI R
-REF NO : 212222240021
+NAME : REXLIN R
+REF NO : 212222220034
 
 from tensorflow import keras
 from tensorflow.keras import layers
