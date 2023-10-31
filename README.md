@@ -6,13 +6,12 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
 Using autoencoder, we are trying to remove the noise added in the encoder part and tent to get the output which should be same as the input with minimal loss. The dataset which is used is mnist dataset.
-![201460551-99b57c03-8dd9-4ec2-9d7c-1772acf980c4](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/a9fd8225-ba8e-4215-97ce-52809f4ed9c7)
+![240131028-a9fd8225-ba8e-4215-97ce-52809f4ed9c7](https://github.com/rexlinrajan2004/convolutional-denoising-autoencoder/assets/119406566/5c0fb864-e235-4327-89f1-27b631457f28)
 
 
- 
 
 ## Convolution Autoencoder Network Model
-![201509467-dd107f8d-acc4-41a8-a9f0-d0494d7d2a0c](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/48b9dda4-34a2-440e-a433-df36548e74ba)
+![240131084-48b9dda4-34a2-440e-a433-df36548e74ba](https://github.com/rexlinrajan2004/convolutional-denoising-autoencoder/assets/119406566/85f31a41-338a-4793-8d34-29421a18bb22)
 
 
 
@@ -34,8 +33,8 @@ Build the Neural Model using Convolutional, Pooling and Up Sampling layers. Make
 Pass test data for validating manually.
 
 ### STEP 6:
-
 Plot the predictions for visualization.
+
 ## PROGRAM
 ```
 NAME : REXLIN R
@@ -118,16 +117,11 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-
-![de](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/80674d6f-e6ae-4515-ae5b-a27252de9cdf)
+![240134548-80674d6f-e6ae-4515-ae5b-a27252de9cdf](https://github.com/rexlinrajan2004/convolutional-denoising-autoencoder/assets/119406566/0d90ae4b-1652-481c-94eb-0f5e017b123e)
 
 
 ### Original vs Noisy Vs Reconstructed Image
-
-![download](https://github.com/charumathiramesh/convolutional-denoising-autoencoder/assets/120204455/775a7571-149b-4217-9712-dd6345f62637)
-
-
+![240132479-775a7571-149b-4217-9712-dd6345f62637](https://github.com/rexlinrajan2004/convolutional-denoising-autoencoder/assets/119406566/f76228f4-f845-47f7-ad02-e96afca9c97e)
 
 
 ## RESULT
